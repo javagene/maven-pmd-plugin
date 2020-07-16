@@ -226,8 +226,7 @@ under the License.
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.5</version>
-      <!-- scope>test</scope> Required by PMD transitively. -->
+      <version>2.6</version>
     </dependency>
   </dependencies>
 
